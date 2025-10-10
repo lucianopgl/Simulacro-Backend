@@ -1,0 +1,121 @@
+titulo;fechaEstreno;precioBaseAlquiler;clasificacion;genero;director
+Pelicula 001;2023-09-23;9.92;ATP;Drama;Ximena Ledesma
+Pelicula 002;2025-07-27;18.90;ADULTOS_18;Acción;Gabriela Varela
+Pelicula 003;2022-10-09;3.50;ADOLESCENTES_13;Terror;Greta Gerwig
+Pelicula 004;2015-05-07;19.75;ATP;Animación;Facundo Bravo
+Pelicula 005;2021-12-27;10.71;ADOLESCENTES_16;Comedia;Martin Scorsese
+Pelicula 006;2017-01-19;14.83;ATP;Romance;Paula Ruiz
+Pelicula 007;2024-11-15;19.36;ATP;Romance;Ximena Ledesma
+Pelicula 008;2020-03-23;3.22;ATP;Romance;Renata Paredes
+Pelicula 009;2015-07-08;6.84;ADULTOS_18;Drama;Facundo Bravo
+Pelicula 010;2018-05-23;10.65;ADOLESCENTES_13;Ciencia Ficción;Sofía Álvarez
+Pelicula 011;2022-05-08;18.79;ADOLESCENTES_16;Romance;Gabriela Varela
+Pelicula 012;2015-03-21;18.94;ATP;Acción;Ana Torres
+Pelicula 013;2016-08-11;14.77;ADOLESCENTES_16;Comedia;Bong Joon-ho
+Pelicula 014;2015-11-09;12.57;INFANTIL_7;Drama;Isabella Duarte
+Pelicula 015;2017-05-31;4.59;ADOLESCENTES_13;Drama;Carolina Soto
+Pelicula 016;2016-08-01;14.06;ADOLESCENTES_16;Acción;Julián Castillo
+Pelicula 017;2018-02-07;13.91;ATP;Comedia;Lucía Martínez
+Pelicula 018;2016-09-25;7.39;INFANTIL_7;Aventura;Denis Villeneuve
+Pelicula 019;2021-04-25;8.94;ADOLESCENTES_13;Aventura;Ana Torres
+Pelicula 020;2021-07-15;16.69;ADOLESCENTES_16;Acción;Pilar Carrizo
+Pelicula 021;2025-06-18;10.47;ADULTOS_18;Comedia;Nicolás Rivas
+Pelicula 022;2023-03-24;16.05;ADOLESCENTES_16;Ciencia Ficción;Lucía Martínez
+Pelicula 023;2016-05-22;15.99;ADOLESCENTES_16;Suspenso;Oscar Benítez
+Pelicula 024;2016-05-04;18.89;ATP;Aventura;Mateo Herrera
+Pelicula 025;2024-03-03;16.69;ADOLESCENTES_13;Terror;Diego Romero
+Pelicula 026;2016-03-19;14.64;INFANTIL_7;Documental;Ximena Ledesma
+Pelicula 027;2025-07-29;6.84;INFANTIL_7;Animación;Pilar Carrizo
+Pelicula 028;2023-10-29;10.03;ATP;Drama;Elena Navarro
+Pelicula 029;2017-05-27;2.85;ADOLESCENTES_13;Acción;Taika Waititi
+Pelicula 030;2020-09-06;16.92;ADOLESCENTES_13;Ciencia Ficción;Zoe Quiñones
+Pelicula 031;2020-03-02;3.18;ADOLESCENTES_13;Drama;Carolina Soto & Nicolás Rivas
+Pelicula 032;2019-10-13;19.08;ATP;Suspenso;Alejandro G. Iñárritu
+Pelicula 033;2022-11-27;17.95;ADOLESCENTES_16;Romance;Sofía Álvarez
+Pelicula 034;2024-03-06;16.35;INFANTIL_7;Romance;Valeria Arcos
+Pelicula 035;2022-11-17;9.57;ADULTOS_18;Terror;María González
+Pelicula 036;2015-09-05;16.62;ADULTOS_18;Comedia;Paula Ruiz
+Pelicula 037;2025-03-01;15.91;ADULTOS_18;Aventura;Ana Torres
+Pelicula 038;2016-07-22;4.35;ADULTOS_18;Comedia;Yamil Peralta
+Pelicula 039;2016-08-16;17.15;ATP;Animación;Ignacio Domínguez & Sofia Coppola
+Pelicula 040;2015-01-07;14.02;ATP;Drama;Noelia Farías
+Pelicula 041;2023-11-19;4.66;INFANTIL_7;Acción;Camila Vega
+Pelicula 042;2019-05-23;15.25;INFANTIL_7;Suspenso;Yamil Peralta
+Pelicula 043;2024-10-21;18.46;ADOLESCENTES_13;Romance;Emilia Suárez
+Pelicula 044;2025-04-30;7.47;ADOLESCENTES_13;Documental;Thiago Santoro
+Pelicula 045;2016-09-12;17.09;ATP;Ciencia Ficción;Lucía Martínez
+Pelicula 046;2019-08-08;9.19;ADULTOS_18;Ciencia Ficción;Carolina Soto
+Pelicula 047;2016-04-10;14.62;ADOLESCENTES_13;Terror;María González
+Pelicula 048;2023-01-12;17.06;ADOLESCENTES_16;Acción;Diego Romero
+Pelicula 049;2024-11-02;17.01;INFANTIL_7;Aventura;Alfonso Cuarón
+Pelicula 050;2019-04-08;7.53;ATP;Aventura;Elena Navarro
+Pelicula 051;2018-05-07;9.71;ADOLESCENTES_16;Comedia;Elena Navarro
+Pelicula 052;2022-01-17;10.59;ADOLESCENTES_13;Documental;Valentina Cruz
+Pelicula 053;2022-05-07;12.80;INFANTIL_7;Comedia;Carolina Soto
+Pelicula 054;2025-06-04;12.21;ADOLESCENTES_16;Acción;Quintín Ferreyra
+Pelicula 055;2023-12-03;15.05;ATP;Acción;Valentina Cruz
+Pelicula 056;2023-11-27;10.55;INFANTIL_7;Documental;Ana Torres
+Pelicula 057;2018-11-30;15.55;ADOLESCENTES_13;Ciencia Ficción;Ignacio Domínguez
+Pelicula 058;2022-09-11;12.49;ADULTOS_18;Ciencia Ficción;Hugo Salinas
+Pelicula 059;2017-03-07;11.15;ADOLESCENTES_13;Drama;Federico Ibáñez
+Pelicula 060;2022-10-11;12.83;ADOLESCENTES_13;Romance;Ana Torres
+Pelicula 061;2025-04-01;7.77;ADOLESCENTES_13;Drama;Noelia Farías
+Pelicula 062;2020-11-29;12.60;ADULTOS_18;Drama;Ramiro Godoy
+Pelicula 063;2017-10-01;6.62;INFANTIL_7;Acción;Elena Navarro
+Pelicula 064;2015-06-03;13.95;ATP;Terror;Gabriela Varela
+Pelicula 065;2016-09-26;19.82;ADULTOS_18;Animación;Camila Vega
+Pelicula 066;2025-03-11;11.27;ATP;Ciencia Ficción;Juan Pérez
+Pelicula 067;2022-10-30;10.73;ADULTOS_18;Terror;Diego Romero
+Pelicula 068;2020-08-27;3.48;ATP;Documental;Ana Torres
+Pelicula 069;2024-09-03;12.15;INFANTIL_7;Aventura;Paula Ruiz
+Pelicula 070;2022-09-06;18.91;INFANTIL_7;Romance;Daniela Ponce
+Pelicula 071;2021-12-13;3.22;ADULTOS_18;Terror;Julia Figueroa
+Pelicula 072;2016-11-03;18.44;ADULTOS_18;Suspenso;Thiago Santoro
+Pelicula 073;2024-05-28;7.87;ADULTOS_18;Documental;Federico Ibáñez
+Pelicula 074;2021-11-04;12.78;ADOLESCENTES_16;Acción;Valentina Cruz
+Pelicula 075;2015-10-09;18.73;ADOLESCENTES_16;Acción;Tomás Cabrera
+Pelicula 076;2021-11-11;3.27;INFANTIL_7;Documental;Quintín Ferreyra
+Pelicula 077;2017-03-22;8.22;ADULTOS_18;Suspenso;Renata Paredes
+Pelicula 078;2020-07-11;19.58;ATP;Aventura;Quintín Ferreyra
+Pelicula 079;2015-11-25;16.90;ADOLESCENTES_16;Animación;Lucrecia Martel
+Pelicula 080;2020-06-14;14.17;INFANTIL_7;Acción;Ulises Medina
+Pelicula 081;2023-04-10;8.41;ADOLESCENTES_13;Suspenso;Guillermo del Toro
+Pelicula 082;2015-11-02;13.50;INFANTIL_7;Terror;Selena Bustos
+Pelicula 083;2021-10-14;13.16;INFANTIL_7;Romance;Pedro Almodóvar
+Pelicula 084;2022-07-24;18.37;ATP;Documental;Agustina Molina
+Pelicula 085;2019-01-20;12.75;ADOLESCENTES_13;Ciencia Ficción;Elena Navarro
+Pelicula 086;2019-07-30;16.00;INFANTIL_7;Ciencia Ficción;Christopher Nolan
+Pelicula 087;2025-01-31;7.62;ADOLESCENTES_13;Drama;Federico Ibáñez
+Pelicula 088;2021-09-23;2.63;INFANTIL_7;Romance;Hugo Salinas
+Pelicula 089;2021-08-28;8.64;INFANTIL_7;Animación;Quintín Ferreyra & Gabriela Varela
+Pelicula 090;2019-01-26;17.08;ADOLESCENTES_13;Comedia;Agustina Molina
+Pelicula 091;2025-03-20;5.04;ATP;Romance;Julia Figueroa
+Pelicula 092;2019-08-01;6.29;ADOLESCENTES_16;Ciencia Ficción;Selena Bustos
+Pelicula 093;2024-09-24;15.07;ADOLESCENTES_13;Documental;Ramiro Godoy
+Pelicula 094;2024-07-01;9.36;ADOLESCENTES_16;Documental;Renata Paredes
+Pelicula 095;2020-05-24;16.90;ADULTOS_18;Aventura;Lara Aguirre
+Pelicula 096;2023-03-11;16.45;ADOLESCENTES_13;Documental;Quentin Tarantino
+Pelicula 097;2023-01-01;14.14;ADOLESCENTES_16;Documental;Pedro Almodóvar
+Pelicula 098;2016-03-10;16.11;ADOLESCENTES_16;Drama;Federico Ibáñez
+Pelicula 099;2021-04-03;4.36;ADOLESCENTES_13;Terror;Julia Figueroa
+Pelicula 100;2015-10-18;8.03;ADOLESCENTES_13;Romance;Martín Méndez & Pedro Rodríguez
+Pelicula 101;2019-07-19;11.85;INFANTIL_7;Documental;Ramiro Godoy & Carolina Soto
+Pelicula 102;2022-07-30;18.75;ADOLESCENTES_16;Animación;Zoe Quiñones
+Pelicula 103;2019-12-14;18.52;ATP;Romance;Quintín Ferreyra
+Pelicula 104;2020-03-12;3.54;INFANTIL_7;Comedia;Tomás Cabrera
+Pelicula 105;2025-01-23;8.04;ADOLESCENTES_16;Ciencia Ficción;Julia Figueroa
+Pelicula 106;2025-05-27;5.58;ATP;Comedia;Gabriela Varela
+Pelicula 107;2018-07-18;12.83;ATP;Acción;María González & Ramiro Godoy
+Pelicula 108;2022-08-15;6.68;ADOLESCENTES_13;Animación;María González
+Pelicula 109;2021-08-23;18.72;ADULTOS_18;Comedia;Mateo Herrera
+Pelicula 110;2019-06-05;2.15;ADULTOS_18;Documental;Ximena Ledesma
+Pelicula 111;2018-03-08;18.37;ADOLESCENTES_13;Documental;Sofía Álvarez
+Pelicula 112;2016-10-01;17.13;INFANTIL_7;Documental;Nicolás Rivas
+Pelicula 113;2021-10-21;10.00;ADULTOS_18;Animación;Carolina Soto
+Pelicula 114;2018-01-05;16.57;ADOLESCENTES_16;Suspenso;Juan Pérez
+Pelicula 115;2022-09-09;12.33;ADOLESCENTES_13;Terror;Selena Bustos
+Pelicula 116;2018-03-18;4.83;INFANTIL_7;Suspenso;Alfonso Cuarón
+Pelicula 117;2015-05-22;6.18;ADULTOS_18;Animación;Emilia Suárez
+Pelicula 118;2021-02-05;5.70;ADOLESCENTES_16;Acción;Isabella Duarte
+Pelicula 119;2019-07-15;16.03;ATP;Drama;Ramiro Godoy
+Pelicula 120;2017-09-28;16.86;ADOLESCENTES_16;Aventura;Mateo Herrera

@@ -1,0 +1,5 @@
+1) Cargar Películas desde CSV
+ 2) Listar películas por director
+ 3) Cantidad de películas recientes (<= 365 días)
+ 4) Promedio de precio por género
+ 5) Mostrar película más reciente
