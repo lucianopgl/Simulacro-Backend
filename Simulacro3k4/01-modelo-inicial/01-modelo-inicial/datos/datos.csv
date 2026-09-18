@@ -1,0 +1,61 @@
+id;nombre;anio;min_jugadores;max_jugadores;duracion;rating;peso;categoria
+J001;Gloomhaven;2018;1;4;60;8.0;2.5;Estrategia
+J002;Pandemic Legacy;2018;1;4;60;8.0;2.5;Estrategia
+J003;Brass: Birmingham;2018;1;4;60;8.0;2.5;Estrategia
+J004;Terraforming Mars;2018;1;4;60;8.0;2.5;Estrategia
+J005;Twilight Imperium;2018;1;4;60;8.0;2.5;Estrategia
+J006;Star Wars: Rebellion;2018;1;4;60;8.0;2.5;Estrategia
+J007;Gaia Project;2018;1;4;60;8.0;2.5;Estrategia
+J008;Scythe;2018;1;4;60;8.0;2.5;Estrategia
+J009;Great Western Trail;2018;1;4;60;8.0;2.5;Estrategia
+J010;7 Wonders Duel;2018;1;4;60;8.0;2.5;Estrategia
+J011;The Castles of Burgundy;2018;1;4;60;8.0;2.5;Estrategia
+J012;Spirit Island;2018;1;4;60;8.0;2.5;Estrategia
+J013;Wingspan;2018;1;4;60;8.0;2.5;Estrategia
+J014;Concordia;2018;1;4;60;8.0;2.5;Estrategia
+J015;Root;2018;1;4;60;8.0;2.5;Estrategia
+J016;Viticulture;2018;1;4;60;8.0;2.5;Estrategia
+J017;Arkham Horror;2018;1;4;60;8.0;2.5;Estrategia
+J018;Azul;2018;1;4;60;8.0;2.5;Estrategia
+J019;Catan;2018;1;4;60;8.0;2.5;Estrategia
+J020;Carcassonne;2018;1;4;60;8.0;2.5;Estrategia
+J021;Ticket to Ride;2018;1;4;60;8.0;2.5;Estrategia
+J022;Splendor;2018;1;4;60;8.0;2.5;Estrategia
+J023;7 Wonders;2018;1;4;60;8.0;2.5;Estrategia
+J024;Power Grid;2018;1;4;60;8.0;2.5;Estrategia
+J025;Puerto Rico;2018;1;4;60;8.0;2.5;Estrategia
+J026;Agricola;2018;1;4;60;8.0;2.5;Estrategia
+J027;Blood Rage;2018;1;4;60;8.0;2.5;Estrategia
+J028;Tapestry;2018;1;4;60;8.0;2.5;Estrategia
+J029;Everdell;2018;1;4;60;8.0;2.5;Estrategia
+J030;Cascadia;2018;1;4;60;8.0;2.5;Estrategia
+J031;Dune: Imperium;2018;1;4;60;8.0;2.5;Estrategia
+J032;Ark Nova;2018;1;4;60;8.0;2.5;Estrategia
+J033;Lost Ruins of Arnak;2018;1;4;60;8.0;2.5;Estrategia
+J034;The Crew;2018;1;4;60;8.0;2.5;Estrategia
+J035;Clank!;2018;1;4;60;8.0;2.5;Estrategia
+J036;Patchwork;2018;1;4;60;8.0;2.5;Estrategia
+J037;Love Letter;2018;1;4;60;8.0;2.5;Estrategia
+J038;Codenames;2018;1;4;60;8.0;2.5;Estrategia
+J039;Dixit;2018;1;4;60;8.0;2.5;Estrategia
+J040;Concept (Low);2020;2;4;30;0.5;1.5;Familiar
+J041;Hanabi (Low);2020;2;4;30;0.5;1.5;Familiar
+J042;Kingdomino (Low);2020;2;4;30;0.5;1.5;Familiar
+J043;7 Wonders Architects (Low);2020;2;4;30;0.5;1.5;Familiar
+J044;Res Arcana (Low);2020;2;4;30;0.5;1.5;Familiar
+J045;It's a Wonderful World (Low);2020;2;4;30;0.5;1.5;Familiar
+J046;Incompleto 46;2020;1;4
+J047;Incompleto 47;2020;1;4
+J048;Incompleto 48;2020;1;4
+J049;Incompleto 49;2020;1;4
+J050;Incompleto 50;2020;1;4
+J051;Año Loco;1850;1;4;30;5.0;2.0;Familiar
+J052;Rating Loco;2020;1;4;30;11.0;2.0;Familiar
+J053;Peso Loco;2020;1;4;30;5.0;6.0;Familiar
+J054;Jugadores Raros;2020;5;2;30;5.0;2.0;Familiar
+J055;Nombre Vacio; ;2020;1;4;30;5.0;2.0;Familiar
+J056;Error 56;2020;uno;4;30;5.0;2.0;Familiar
+J057;Error 57;2020;uno;4;30;5.0;2.0;Familiar
+J058;Error 58;2020;uno;4;30;5.0;2.0;Familiar
+J059;Error 59;2020;uno;4;30;5.0;2.0;Familiar
+J060;Error 60;2020;uno;4;30;5.0;2.0;Familiar

@@ -1,0 +1,141 @@
+id;nombre;anio;min_jugadores;max_jugadores;duracion;rating;peso;categoria;dificultad_cooperativa
+J001;Gloomhaven;2018;2;4;60;8.0;2.5;Estrategia;
+J002;Pandemic Legacy;2018;2;4;60;8.0;2.5;Estrategia;
+J003;Brass: Birmingham;2018;2;4;60;8.0;2.5;Estrategia;
+J004;Terraforming Mars;2018;2;4;60;8.0;2.5;Estrategia;
+J005;Twilight Imperium;2018;2;4;60;8.0;2.5;Estrategia;
+J006;Star Wars: Rebellion;2018;2;4;60;8.0;2.5;Estrategia;
+J007;Gaia Project;2018;2;4;60;8.0;2.5;Estrategia;
+J008;Scythe;2018;2;4;60;8.0;2.5;Estrategia;
+J009;Great Western Trail;2018;2;4;60;8.0;2.5;Estrategia;
+J010;7 Wonders Duel;2018;2;4;60;8.0;2.5;Estrategia;
+J011;The Castles of Burgundy;2018;2;4;60;8.0;2.5;Estrategia;
+J012;Spirit Island;2018;2;4;60;8.0;2.5;Estrategia;
+J013;Wingspan;2018;2;4;60;8.0;2.5;Estrategia;
+J014;Concordia;2018;2;4;60;8.0;2.5;Estrategia;
+J015;Root;2018;2;4;60;8.0;2.5;Estrategia;
+J016;Viticulture;2018;2;4;60;8.0;2.5;Estrategia;
+J017;Arkham Horror;2018;2;4;60;8.0;2.5;Estrategia;
+J018;Azul;2018;2;4;60;8.0;2.5;Estrategia;
+J019;Catan;2018;2;4;60;8.0;2.5;Estrategia;
+J020;Carcassonne;2018;2;4;60;8.0;2.5;Estrategia;
+J021;Ticket to Ride;2018;2;4;60;8.0;2.5;Estrategia;
+J022;Splendor;2018;2;4;60;8.0;2.5;Estrategia;
+J023;7 Wonders;2018;2;4;60;8.0;2.5;Estrategia;
+J024;Power Grid;2018;2;4;60;8.0;2.5;Estrategia;
+J025;Puerto Rico;2018;2;4;60;8.0;2.5;Estrategia;
+J026;Agricola;2018;2;4;60;8.0;2.5;Estrategia;
+J027;Blood Rage;2018;2;4;60;8.0;2.5;Estrategia;
+J028;Tapestry;2018;2;4;60;8.0;2.5;Estrategia;
+J029;Everdell;2018;2;4;60;8.0;2.5;Estrategia;
+J030;Cascadia;2018;2;4;60;8.0;2.5;Estrategia;
+J031;Dune: Imperium;2018;2;4;60;8.0;2.5;Estrategia;
+J032;Ark Nova;2018;2;4;60;8.0;2.5;Estrategia;
+J033;Lost Ruins of Arnak;2018;2;4;60;8.0;2.5;Estrategia;
+J034;The Crew;2018;2;4;60;8.0;2.5;Estrategia;
+J035;Clank!;2018;2;4;60;8.0;2.5;Estrategia;
+J036;Patchwork;2018;2;4;60;8.0;2.5;Estrategia;
+J037;Love Letter;2018;2;4;60;8.0;2.5;Estrategia;
+J038;Codenames;2018;2;4;60;8.0;2.5;Estrategia;
+J039;Dixit;2018;2;4;60;8.0;2.5;Estrategia;
+J040;Concept;2018;2;4;60;8.0;2.5;Estrategia;
+J041;Hanabi;2018;2;4;60;8.0;2.5;Estrategia;
+J042;Kingdomino;2018;2;4;60;8.0;2.5;Estrategia;
+J043;7 Wonders Architects;2018;2;4;60;8.0;2.5;Estrategia;
+J044;Res Arcana;2018;2;4;60;8.0;2.5;Estrategia;
+J045;It's a Wonderful World;2018;2;4;60;8.0;2.5;Estrategia;
+J046;The Isle of Cats;2018;2;4;60;8.0;2.5;Estrategia;
+J047;Calico;2018;2;4;60;8.0;2.5;Estrategia;
+J048;MicroMacro;2018;2;4;60;8.0;2.5;Estrategia;
+J049;Chronicles of Crime;2018;2;4;60;8.0;2.5;Estrategia;
+J050;Sherlock Holmes;2018;2;4;60;8.0;2.5;Estrategia;
+J051;T.I.M.E Stories;2018;2;4;60;8.0;2.5;Estrategia;
+J052;Mansions of Madness;2018;2;4;60;8.0;2.5;Estrategia;
+J053;Eldritch Horror;2018;2;4;60;8.0;2.5;Estrategia;
+J054;Robinson Crusoe;2018;2;4;60;8.0;2.5;Estrategia;
+J055;Dead of Winter;2018;2;4;60;8.0;2.5;Estrategia;
+J056;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;1
+J057;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;2
+J058;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;3
+J059;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;4
+J060;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;5
+J061;Hanabi Coop;2021;1;4;45;7.5;2.0;Cooperativo;6
+J062;MicroMacro Coop;2021;1;4;45;7.5;2.0;Cooperativo;7
+J063;Mansions of Madness Coop;2021;1;4;45;7.5;2.0;Cooperativo;8
+J064;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;9
+J065;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;1
+J066;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;2
+J067;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;3
+J068;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;4
+J069;Hanabi Coop;2021;1;4;45;7.5;2.0;Cooperativo;5
+J070;MicroMacro Coop;2021;1;4;45;7.5;2.0;Cooperativo;6
+J071;Mansions of Madness Coop;2021;1;4;45;7.5;2.0;Cooperativo;7
+J072;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;8
+J073;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;9
+J074;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;1
+J075;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;2
+J076;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;3
+J077;Hanabi Coop;2021;1;4;45;7.5;2.0;Cooperativo;4
+J078;MicroMacro Coop;2021;1;4;45;7.5;2.0;Cooperativo;5
+J079;Mansions of Madness Coop;2021;1;4;45;7.5;2.0;Cooperativo;6
+J080;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;7
+J081;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;8
+J082;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;9
+J083;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;1
+J084;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;2
+J085;Hanabi Coop;2021;1;4;45;7.5;2.0;Cooperativo;3
+J086;MicroMacro Coop;2021;1;4;45;7.5;2.0;Cooperativo;4
+J087;Mansions of Madness Coop;2021;1;4;45;7.5;2.0;Cooperativo;5
+J088;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;6
+J089;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;7
+J090;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;8
+J091;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;9
+J092;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;1
+J093;Hanabi Coop;2021;1;4;45;7.5;2.0;Cooperativo;2
+J094;MicroMacro Coop;2021;1;4;45;7.5;2.0;Cooperativo;3
+J095;Mansions of Madness Coop;2021;1;4;45;7.5;2.0;Cooperativo;4
+J096;Gloomhaven Coop;2021;1;4;45;7.5;2.0;Cooperativo;5
+J097;Spirit Island Coop;2021;1;4;45;7.5;2.0;Cooperativo;6
+J098;Pandemic Legacy Coop;2021;1;4;45;7.5;2.0;Cooperativo;7
+J099;The Crew Coop;2021;1;4;45;7.5;2.0;Cooperativo;8
+J100;Arkham Horror Coop;2021;1;4;45;7.5;2.0;Cooperativo;9
+J101;Descartado 101;2022;2;4;30;0.8;1.5;Familiar;
+J102;Descartado 102;2022;2;4;30;0.8;1.5;Familiar;
+J103;Descartado 103;2022;2;4;30;0.8;1.5;Familiar;
+J104;Descartado 104;2022;2;4;30;0.8;1.5;Familiar;
+J105;Descartado 105;2022;2;4;30;0.8;1.5;Familiar;
+J106;Descartado 106;2022;2;4;30;0.8;1.5;Familiar;
+J107;Descartado 107;2022;2;4;30;0.8;1.5;Familiar;
+J108;Descartado 108;2022;2;4;30;0.8;1.5;Familiar;
+J109;Descartado 109;2022;2;4;30;0.8;1.5;Familiar;
+J110;Descartado 110;2022;2;4;30;0.8;1.5;Familiar;
+J111;Descartado 111;2022;2;4;30;0.8;1.5;Familiar;
+J112;Descartado 112;2022;2;4;30;0.8;1.5;Familiar;
+J113;Descartado 113;2022;2;4;30;0.8;1.5;Familiar;
+J114;Descartado 114;2022;2;4;30;0.8;1.5;Familiar;
+J115;Descartado 115;2022;2;4;30;0.8;1.5;Familiar;
+J116;Descartado 116;2022;2;4;30;0.8;1.5;Familiar;
+J117;Incompleto 117;2020;1;4
+J118;Incompleto 118;2020;1;4
+J119;Incompleto 119;2020;1;4
+J120;Incompleto 120;2020;1;4
+J121;Incompleto 121;2020;1;4
+J122;Incompleto 122;2020;1;4
+J123;Incompleto 123;2020;1;4
+J124;Incompleto 124;2020;1;4
+J125;Coop Loco 125;2020;1;4;30;7.0;2.0;Cooperativo;15
+J126;Coop Loco 126;2020;1;4;30;7.0;2.0;Cooperativo;15
+J127;Coop Loco 127;2020;1;4;30;7.0;2.0;Cooperativo;15
+J128;Coop Loco 128;2020;1;4;30;7.0;2.0;Cooperativo;15
+J129;Año Loco;1850;2;4;30;5.0;2.0;Familiar;
+J130;Rating Loco;2020;1;4;30;11.0;2.0;Familiar;
+J131;Peso Loco;2020;1;4;30;5.0;6.0;Familiar;
+J132;Jugadores Raros;2020;5;2;30;5.0;2.0;Familiar;
+J133;Error 133;2020;uno;4;30;5.0;2.0;Familiar;
+J134;Error 134;2020;uno;4;30;5.0;2.0;Familiar;
+J135;Error 135;2020;uno;4;30;5.0;2.0;Familiar;
+J136;Error 136;2020;uno;4;30;5.0;2.0;Familiar;
+J137;Error 137;2020;uno;4;30;5.0;2.0;Familiar;
+J138;Error 138;2020;uno;4;30;5.0;2.0;Familiar;
+J139;Error 139;2020;uno;4;30;5.0;2.0;Familiar;
+J140;Error 140;2020;uno;4;30;5.0;2.0;Familiar;
