@@ -32,3 +32,4 @@ El proyecto Maven incluye las siguientes clases en el paquete `ar.edu.backend.ju
 
 ---
 **Nota**: Este material es preparatorio para el parcial. Durante el examen se solicitará una evolución del modelo.
+

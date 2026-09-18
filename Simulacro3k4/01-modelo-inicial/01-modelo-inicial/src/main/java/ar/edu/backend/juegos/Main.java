@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 
 public class Main {
     public static void main(String[] args) {
-        String ruta = "datos/datos.csv";
+        String ruta = "datos/datos-parcial.csv";
         if (args.length > 0) {
             ruta = args[0];
         }
@@ -19,10 +19,12 @@ public class Main {
 
         ServicioJuegos servicio = new ServicioJuegos(resultado.getJuegos());
 
+        System.out.println("Líneas leídas: " + resultado.getLeidas());
+        System.out.println("Juegos procesados exitosamente: " + resultado.getProcesadas());
+        System.out.println("Juegos descartados (rating < 1.0): " + resultado.getDescartadas());
+        System.out.println("Filas inválidas (error de formato/reglas): " + resultado.getInvalidas());
+        System.out.println("--------------------------------------------------");
+
         System.out.println(servicio.panorama());
-        System.out.printf("Promedio de Rating: %.2f%n", servicio.calcularPromedioRating());
-        servicio.obtenerMasComplejo().ifPresent(j -> 
-            System.out.println("Juego más complejo: " + j.getNombre() + " (Peso: " + j.getPeso() + ")")
-        );
     }
 }
